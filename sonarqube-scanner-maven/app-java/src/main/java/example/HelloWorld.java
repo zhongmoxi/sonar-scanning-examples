@@ -1,7 +1,7 @@
 package example;
 
 public class HelloWorld {
-
+  private static final String Hello_WORLD = "Hello WOLD";
   public void coveredByUnitTest() {
     System.out.println("coveredByUnitTest1");
     System.out.println("coveredByUnitTest2");
